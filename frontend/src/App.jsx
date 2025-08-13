@@ -14,7 +14,7 @@ import AdminJobs from "./components/admin/AdminJobs.jsx";
 import PostJob from './components/admin/PostJob.jsx'
 import Applicants from './components/admin/Applicants.jsx'
 import ProtectedRoute from './components/admin/ProtectedRoute.jsx'
-import BookmarkedJobs from './components/BookMarkedjobs.jsx'
+import BookmarkedJobs from './components/Bookmarkedjobs.jsx'
 
 
 const appRouter = createBrowserRouter([
